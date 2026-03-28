@@ -14,7 +14,7 @@ I’m currently learning Rust and working on personal projects.
 
 ## Contact
 - Email: kmdant4s@gmail.com
-- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kau%C3%A3-mendes-dantas-91a76837b/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kauamendes/)
 - GitHub: [My GitHub](https://github.com/KadesTech)
 
 ## License
