@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello! I’m Kauã Mendes Dantas 👋
 
-<!--
-**KadesTech/KadesTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I’m a software engineer passionate about technology, programming, and innovation.
+I’m currently learning Rust and working on personal projects.
 
-Here are some ideas to get you started:
+## Skills
+- Languages: Python, JavaScript, and PHP.
+- Frameworks: React, Node.js, and Laravel.
+- Tools: Git, GitHub and VS Code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Projeto 1](projetos/projeto1) - Descrição curta do projeto
+
+## Contact
+- Email: kmdant4s@gmail.com
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/kau%C3%A3-mendes-dantas-91a76837b/)
+- GitHub: [My GitHub](https://github.com/KadesTech)
+
+## License
+This repository is licensed under the MIT License. See the LICENSE file for more details.
