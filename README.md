@@ -1,4 +1,4 @@
-# Hello! I’m Kauã Mendes Dantas 👋
+# Hello! I’m Kauã Mendes Dantas 🖐
 
 ## About Me
 I’m a software engineer passionate about technology, programming, and innovation.
